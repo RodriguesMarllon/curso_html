@@ -1,0 +1,14 @@
+main {
+    background-color: rgb(87, 87, 230);
+    width: 200px;
+    height: 200px;
+}
+.container_div{
+    background-color: rgb(166, 87, 230);
+    width: 100px;
+}
+#novo_id{
+    background-color: rgb(220, 230, 87);
+    width: 100px;
+    height: 100px;
+}
